@@ -39,7 +39,7 @@ GitHub Actions runs on every push to `main`:
 - ✅ JS test suite (10 tests)
 - ✅ Frontend build check
 
-> **Badge/Screenshot**: Go to GitHub → Actions tab to see the green checkmarks.
+<img width="1919" height="424" alt="Screenshot 2026-03-17 215352" src="https://github.com/user-attachments/assets/51fa9969-356a-4223-800e-9980e37f917c" />
 
 ---
 
