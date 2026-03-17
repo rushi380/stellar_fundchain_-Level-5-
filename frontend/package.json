@@ -1,0 +1,19 @@
+{
+  "name": "fundchain-pro",
+  "version": "2.0.0",
+  "description": "FundChain Pro — Advanced Stellar crowdfunding with reward tokens",
+  "type": "module",
+  "scripts": {
+    "dev":     "vite",
+    "build":   "vite build",
+    "preview": "vite preview",
+    "test":    "node ../tests/fundchain.test.js"
+  },
+  "dependencies": {
+    "@stellar/freighter-api": "^2.0.0",
+    "@stellar/stellar-sdk":  "^14.5.0"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
