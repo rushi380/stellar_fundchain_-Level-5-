@@ -21,25 +21,6 @@
 
 <img width="1044" height="450" alt="Screenshot 2026-03-15 220528" src="https://github.com/user-attachments/assets/e2e3e491-02bc-4c93-9af9-d57b5540804e" />
 
-
-
----
-
-## 📱 Mobile Responsive
-
-The UI is fully responsive across all screen sizes.
-
-![WhatsApp Image 2026-03-18 at 10 51 33 PM](https://github.com/user-attachments/assets/896920d5-4785-4c35-a470-e8f0a6570aaa)
-
----
-
-## ⚙️ CI/CD Pipeline
-
-GitHub Actions runs on every push to `main`:
-
-<img width="1919" height="842" alt="Screenshot 2026-03-18 225407" src="https://github.com/user-attachments/assets/f49008d9-6613-4fd1-a26c-b06f501eb07f" />
-
-
 ---
 
 ## 🏗 Architecture — Two Contracts
