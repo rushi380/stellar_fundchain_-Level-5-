@@ -6,7 +6,9 @@
 
 ## 🌐 Live Demo
 
-🔗 **(stellar-fundchain-pro.vercel.app)**
+# Stellar Fundchain Pro
+
+[![Vercel Deployment](https://img.shields.io/badge/Vercel-Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://stellar-fundchain-pro.vercel.app)
 
 ---
 
