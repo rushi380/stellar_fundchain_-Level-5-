@@ -18,6 +18,13 @@
 
 ---
 
+---
+## 📝 User Onboarding & Details:
+
+👉 **[User Onboarding & Details Form](https://docs.google.com/spreadsheets/d/1b6cmtja4fYsDEYuK8sLrifHSSU_LfMTm1vK4UT78WIA/edit?usp=sharing)**
+
+---
+
 ## 📸 Test Output Screenshot
 
 
