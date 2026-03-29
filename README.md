@@ -4,11 +4,21 @@
 
 ---
 
+## 🖥️ Platform Preview
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/332ef23e-ec0d-45a6-87ba-6f6fbbe6c834" alt="Stellar Fundchain Pro Dashboard" width="800">
+  <br>
+  <i>Main Dashboard — Secured by Stellar Network & Hosted on Vercel</i>
+</p>
+
+---
+
 ## 🌐 Live Demo
 
 # Stellar Fundchain Pro
 
-[![Vercel Deployment](https://img.shields.io/badge/Vercel-Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://stellar-fundchain-pro.vercel.app)
+https://stellar-fundchain-pro.vercel.app
 
 ---
 
